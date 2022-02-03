@@ -1,7 +1,4 @@
 # HW-4-AleynaZengin
-hw-4-aleynazengin created by GitHub Classroom
-
-HW#4
 1 – What is JPA ?
 
 2 - What is the naming convention for finder methods in the Spring data repository interface ?
